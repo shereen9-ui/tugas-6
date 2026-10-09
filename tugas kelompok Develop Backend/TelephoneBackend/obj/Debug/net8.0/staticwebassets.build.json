@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6iiVOmVfwxOVSllN4XKuMqjr7N1cyItbaXdlfcQPrcc=",
+  "Source": "TelephoneBackend",
+  "BasePath": "_content/TelephoneBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
